@@ -1,0 +1,4 @@
+T001, Lập trình Java, 26/06/2024, 14h, 60, 905 A1, Hoàng Quang Huy
+T005, Pháp luật đại cương, 22/06/2024, 12h30, 76, 605 A7, Vũ Thị Đam
+T004, Kiểm thử phần mềm, 19/06/2024, 7h00, 67, 701 A1, Nguyễn Đức Lưu
+T003, Tiếng Anh, 15/06/2024, 7h00, 33, 1012 A10, Ngô Thị Quỳnh

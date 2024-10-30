@@ -1,0 +1,5 @@
+HP01,Thiết kế phần mềm,Công nghệ thông tin,3,Học kỳ 6,12
+HP02,Tiếng anh,Ngoại ngữ,3,Học kỳ 2,5
+HP03,Kiểm thử phần mềm,Công nghệ thông tin,3,Học kỳ 3,12
+HP04,Thực tập doanh nghiệp,Công nghệ thông tin,9,Học kỳ 6,3
+HP05,a,a,3,7,1
